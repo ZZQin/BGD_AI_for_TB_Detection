@@ -1,4 +1,4 @@
-# Can artificial intelligence (AI) be used to accurately detect tuberculosis (TB) from chest X-rays? An evaluation of five AI products for TB screening and triaging in a high TB burden setting
+# Can artificial intelligence (AI) be used to accurately detect tuberculosis (TB) from chest X-rays? An evaluation of five AI products for TB triaging in a high TB burden setting
 
 Summary 
 Background 
